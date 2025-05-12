@@ -59,7 +59,7 @@ ReadFi is building a cultural protocol where books are alive, ideas evolve throu
 
 Because reading was always the original DAO. We just gave it a token and a UI.
 
-🛠 Hackathon Roadmap (MVP)
+● Hackathon Roadmap (MVP)
  Emotion-based reflection UI (300-char + emoji)
 
  Smart contract for $LOL / $READ distribution
