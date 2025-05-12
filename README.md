@@ -54,7 +54,7 @@ Each reaction updates the author’s score in a daily reward pool. Users can onl
 | 🧠     | $READ  | +1.5   |
 | 😢     | $READ  | +1     |
 
-⛓️ Smart Contract Highlights
+● Smart Contract Highlights
 
 - Reflections are hashed and timestamped on submission
 - Emoji reactions are logged and verified for uniqueness
