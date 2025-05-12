@@ -35,6 +35,36 @@ Participatory literary NFTs & tokenized book publishing
 
 Proof of Emotion > Proof of Stake
 
+● Tokenomics & Smart Contract Logic
+● Tokenomics & Smart Contract Logic
+
+We use a dual-token incentive system powered by emotional reactions:
+
+- 😂 = $LOL (humor)
+- 🧠 = $READ (insight)
+- 😢 = $READ (emotional impact)
+
+Each reaction updates the author’s score in a daily reward pool. Users can only react once per post to avoid farming. Rewards are distributed algorithmically based on aggregate scores.
+
+🧠 Emoji-to-Token Weighting
+
+| Emoji | Token | Weight |
+|-------|--------|--------|
+| 😂     | $LOL   | +1     |
+| 🧠     | $READ  | +1.5   |
+| 😢     | $READ  | +1     |
+
+⛓️ Smart Contract Highlights
+
+- Reflections are hashed and timestamped on submission
+- Emoji reactions are logged and verified for uniqueness
+- Scores are aggregated on a rolling 24h epoch
+- Tokens are distributed proportionally from a reward pool
+- Events trigger UI updates (e.g., badge progress, Zine eligibility)
+
+This creates an incentive loop based on authenticity, not volume:  
+*Proof of Emotion > Proof of Stake*
+
 ● Why Solana?
 High-speed: Instant reaction = instant reward
 
