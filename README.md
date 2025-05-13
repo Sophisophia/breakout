@@ -100,7 +100,7 @@ Because reading was always the original DAO. We just gave it a token and a UI.
  Backpack + Drip integrations
 
 ■ Team
-C – Solo builder based in Tokyo
+SOPHI – Solo builder based in Tokyo
 Editor, journalist, product designer, and literary DAO maximalist.
 
 ■ Market Opportunity
